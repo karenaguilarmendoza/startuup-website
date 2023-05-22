@@ -1,0 +1,35 @@
+/* Styles pour la page d'accueil */
+body.page-accueil {
+  background-color: #f0f8ff; /* Bleu clair */
+}
+
+body.page-accueil h1,
+body.page-accueil h2 {
+  color: #008000; /* Vert foncé */
+}
+
+body.page-accueil p {
+  color: #000080; /* Bleu marine */
+}
+
+/* Styles pour la page des membres */
+body.page-membres {
+  background-color: #006400; /* Vert foncé */
+  color: #ffffff; /* Blanc */
+}
+
+/* Styles pour la page d'actualités */
+body.page-actualites {
+  background-color: #add8e6; /* Bleu clair */
+}
+
+/* Styles pour la page de contact */
+body.page-contact {
+  background-color: #f0f8ff; /* Bleu clair */
+}
+
+/* Logo Audencia */
+.logo-audencia {
+  max-width: 100px;
+  max-height: 100px;
+}
